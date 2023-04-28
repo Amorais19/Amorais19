@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá! Seja bem-vindo, eu me chamo Alice!! 👋
 
-<!--
-**Amorais19/Amorais19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudante de informática no Cefet-MG
+- 🪴 Entre em contato comigo pelo email alicemoraisams@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/amorais19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorais19&show_icons=true&theme=dracula&include_all_commits=true&count=private=ture"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorais19&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" alt="Amorais-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Amorais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Amorais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+  
+<div>
+  
+</div>
