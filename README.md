@@ -21,6 +21,6 @@
   <a href="https://instagram.com/Amorais_19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto::contato@amorais19.tech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/amorais19/amorais19/blob/output/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/Amorais19/Amorais19/blob/output/github-contribution-grid-snake.svg)
   
 </div>
