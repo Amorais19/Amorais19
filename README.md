@@ -1,7 +1,7 @@
 ### Olá! Seja bem-vindo, eu me chamo Alice!! 👋
 
 - 🌱 Estudante de informática no Cefet-MG
-- 🪴 Entre em contato comigo pelo email alicemoraisams@gmail.com
+- 🪴 Entre em contato comigo pelo email alicepartrab@gmail.com
 
 <div>
   <a href="https://github.com/amorais19">
