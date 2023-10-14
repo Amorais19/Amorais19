@@ -17,11 +17,13 @@
 
 - Vale lembrar que ainda sou estudante, portanto, somente possuo um conhecimento básico de ambas.
 
-![HTML5](https://img.shields.io/badge/HTML5-3F8A9B?style=for-the-badge&logo=html5&logoColor=FFF)
-![CSS3](https://img.shields.io/badge/CSS3-3F8A9B?style=for-the-badge&logo=css3&logoColor=FFF)
+![Git](https://img.shields.io/badge/Git-3F8A9B?style=for-the-badge&logo=git&logoColor=FFF)
+![GitHub](https://img.shields.io/badge/GitHub-3F8A9B?style=for-the-badge&logo=github&logoColor=FFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-3F8A9B?style=for-the-badge&logo=c%2B%2B&logoColor=FFF)
 ![Python](https://img.shields.io/badge/Python-3F8A9B?style=for-the-badge&logo=python&logoColor=FFF)
+![MySQL](https://img.shields.io/badge/MySQL-3F8A9B?style=for-the-badge&logo=mysql&logoColor=FFF)
+![HTML5](https://img.shields.io/badge/HTML5-3F8A9B?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS3](https://img.shields.io/badge/CSS3-3F8A9B?style=for-the-badge&logo=css3&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3F8A9B?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3F8A9B?style=for-the-badge&logo=typescript&logoColor=FFF)
 ![React](https://img.shields.io/badge/React-3F8A9B?style=for-the-badge&logo=react&logoColor=FFF)
-![MySQL](https://img.shields.io/badge/MySQL-3F8A9B?style=for-the-badge&logo=mysql&logoColor=FFF)
