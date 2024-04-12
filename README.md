@@ -22,6 +22,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-3F8A9B?style=for-the-badge&logo=c%2B%2B&logoColor=FFF)
 ![PHP](https://img.shields.io/badge/php-3F8A9B?style=for-the-badge&logo=php&logoColor=FFF)
 ![Python](https://img.shields.io/badge/Python-3F8A9B?style=for-the-badge&logo=python&logoColor=FFF)
+![Laravel](https://img.shields.io/badge/Laravel-3F8A9B?style=for-the-badge&logo=laravel&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3F8A9B?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3F8A9B?style=for-the-badge&logo=typescript&logoColor=FFF)
 ![React_Native](https://img.shields.io/badge/React_Native-3F8A9B?style=for-the-badge&logo=react&native&logoColor=FFF)
