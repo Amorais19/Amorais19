@@ -5,7 +5,7 @@
 ## Entre em contato comigo:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-3F8A9B?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:aliceparttrab@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-3F8A9B?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/Amorais19/)
+[![Instagram](https://img.shields.io/badge/Instagram-3F8A9B?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/Amorais_19/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3F8A9B?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/alice-de-morais-53a226293/)
 
 ## GitHub Stats
